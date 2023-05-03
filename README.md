@@ -1,8 +1,32 @@
-- 👋 Hi, I’m Ashraf
-- 👀 I’m interested in game development...
-- 🌱 I’m currently learning how to make
- games on unity editor...
-- I know how to program in C++ and c#...
-- I'm trying to learn programming as much as
- I could in every possible field.
- THX FOR READING MY PROFILE 😁. 
+![Header](./github-header-image.png)
+# Hi there! 👋
+
+## I'm Ashraf Almayah, and I'm here to change the game! 🎮
+
+### About Me 🤓
+
+I'm a young software developer with a passion for creating awesome games using Unity. With my trusty programming skills in C# and C++, I'm always pushing the boundaries of what's possible in the world of game development. 
+
+### What I Do 💻
+
+When I'm not coding up a storm, you can usually find me blasting my way through the latest video games or jamming out to my favorite tunes. I'm also a bit of a tech enthusiast, always keeping up to date with the latest trends and gadgets.
+
+### My Goals 🚀
+
+My ultimate goal is to become a master game developer, creating games that are fun, engaging, and leave players wanting more. I want to push the limits of what's possible in gaming, while still keeping things fresh and exciting. Who knows? Maybe one day I'll be the one designing the next big hit!
+
+### Let's Connect! 🤝
+
+If you're as passionate about gaming and technology as I am, I'd love to connect with you! Feel free to drop me a message or check out some of my projects. Let's work together to create something awesome!
+
+### GitHub Stats 📈
+
+[![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafalmayah&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=0C1117)](https://github.com/ashrafalmayah)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashrafalmayah&theme=dark&hide_border=true&border_radius=4&ring=1A1B49&background=0C1117)](https://git.io/streak-stats)
+
+### Top Languages 🔝
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafalmayah&layout=compact&theme=dark&hide_border=true&bg_color=0C1117)](https://github.com/ashrafalmayah)
+
+
