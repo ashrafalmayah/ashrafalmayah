@@ -1,4 +1,5 @@
 ![Header](./github-header-image.png)
+<div align="center">
 
 # Hi there! 👋
 
@@ -30,11 +31,4 @@ If you're as passionate about gaming and technology as I am, I'd love to connect
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafalmayah&layout=compact&theme=dark&bg_color=0C1117)](https://github.com/ashrafalmayah)
 
-<style>
-    body {
-        text-align:center
-    }
-    p {
-        text-align:left
-    }
-</style>
+</div>
