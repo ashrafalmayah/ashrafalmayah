@@ -21,12 +21,12 @@ If you're as passionate about gaming and technology as I am, I'd love to connect
 
 ### GitHub Stats 📈
 
-[![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafalmayah&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=0C1117)](https://github.com/ashrafalmayah)
+[![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafalmayah&count_private=true&show_icons=true&theme=dark&bg_color=0C1117)](https://github.com/ashrafalmayah)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashrafalmayah&theme=dark&hide_border=true&border_radius=4&ring=1A1B49&background=0C1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashrafalmayah&theme=dark&border_radius=4&ring=1A1B49&background=0C1117)](https://git.io/streak-stats)
 
 ### Top Languages 🔝
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafalmayah&layout=compact&theme=dark&hide_border=true&bg_color=0C1117)](https://github.com/ashrafalmayah)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafalmayah&layout=compact&theme=dark&bg_color=0C1117)](https://github.com/ashrafalmayah)
 
 
