@@ -1,7 +1,9 @@
 <!-- ![Header](./github-header-image.png) -->
 <div style="position: relative; height: 100%">
-<img src="background.png" alt="Background Image" style="position: absolute; width:100%; height:100%;">
+<img src="background.svg" alt="Background Image" style="position: absolute;">
 <div style="position: relative; padding:5%;">
+
+
 <h1 align="center">Hi there I'm MADASH 👋</h1>
 <h4 align="center"> Game developer</h4>
 <!-- <h1 align="center"> Hi there! 👋 </h1> -->
