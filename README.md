@@ -1,11 +1,9 @@
 <!-- ![Header](./github-header-image.png) -->
-<div style="background-image: url('background.png'); background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;">
-  <div style="width: 80%; padding: 5% 10%">
+<div style="position: relative; height: 100%">
+<img src="background.png" alt="Background Image" style="position: absolute; width:100%; height:100%;">
+<div style="position: relative; padding:5%;">
 <h1 align="center">Hi there I'm MADASH 👋</h1>
 <h4 align="center"> Game developer</h4>
-
 <!-- <h1 align="center"> Hi there! 👋 </h1> -->
 
 <h2 align="center"> I'm Ashraf Almayah, and I'm here to change the game! 🎮 </h2>
@@ -37,3 +35,5 @@ If you're as passionate about gaming and technology as I am, I'd love to connect
 
 </div>
 </div>
+<!-- </div> -->
+<!-- </div> -->
