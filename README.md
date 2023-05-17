@@ -21,6 +21,12 @@ If you're as passionate about gaming and technology as I am, I'd love to connect
 
 <h3 align="center"> GitHub Stats 📈 </h3>
 
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/4072e3d8-1983-406b-8a56-5664b642f36a.svg)](https://wakatime.com/@4072e3d8-1983-406b-8a56-5664b642f36a)
+
+</div>
+
 [![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafalmayah&count_private=true&show_icons=true&theme=dark&bg_color=0C1117)](https://github.com/ashrafalmayah)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashrafalmayah&theme=dark&border_radius=4&ring=1A1B49&background=0C1117)](https://git.io/streak-stats)
